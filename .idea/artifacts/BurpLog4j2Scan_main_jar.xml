@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BurpLog4j2Scan_main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BurpLog4j2Scan_main_jar</output-path>
+    <root id="archive" name="BurpLog4j2Scan_main.jar">
+      <element id="module-output" name="BurpLog4j2Scan_main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/2.3/805f2177b7a20961faf4f49cf9ad8c7f0c33242f/burp-extender-api-2.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
